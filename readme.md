@@ -14,6 +14,7 @@ First, make a square.
     border: 2px solid aqua;
     line-height: 100px;
     text-align: center;
+    font-family: courier-new
   }
 </style>
 
