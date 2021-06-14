@@ -1,0 +1,40 @@
+* {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.circle {
+  background-color: #2945DE;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+  border: 3px orange solid;
+  color: #fff;
+}
+
+.oval {
+  background-color: #333;
+  height: 125px;
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+  color: red;
+  border: green 5px dashed;
+}
+
+.square {
+  background-color: #DE29C3;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  color: #000;
+  border: orange 5px dotted;
+}
