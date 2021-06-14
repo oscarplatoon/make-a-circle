@@ -17,7 +17,7 @@
   border-radius: 50%;
   text-align: center;
   border: 3px orange solid;
-  color: white;
+  color: #fff;
 }
 
 .oval {
@@ -25,4 +25,16 @@
   height: 125px;
   width: 100px;
   border-radius: 50%;
+  text-align: center;
+  color: red;
+  border: green 5px dashed;
+}
+
+.square {
+  background-color: #DE29C3;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  color: #000;
+  border: orange 5px dotted;
 }
