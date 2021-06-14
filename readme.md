@@ -31,6 +31,5 @@ Then, all you need to do is set the `border-radius` of the square to `50%`.
 * Change the color of the font to something else.
 * Change the font family to something else.
 * Play with the HTML and the styles! If you nest another element in the circle, what happens?
-
 ### Release 3 - Stack the Circles
-Want a challenge? Make a few more `.box` divs, and play with their `display` and `position` properties.
+Want a challenge? Make a few more `.box` divs, and play with their `display` and `position` properties.WERT
